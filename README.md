@@ -11,7 +11,9 @@
 </head>
 <body>
     <h1>test line</h1>
-
+    
+    Does this work then? \(E = mc^2\)... 
+    
     <h1> Here we have the famous equation \(E = mc^2\). Does this get formatted correctly my Pages?</h1>
 </body>
 </html>
